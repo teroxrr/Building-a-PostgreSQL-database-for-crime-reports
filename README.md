@@ -9,6 +9,8 @@ This diagram illustrates a high level overview of our goal:
 
 <img src="https://github.com/teroxrr/Building-a-PostgreSQL-database-for-crime-reports./blob/main/goal.png" alt="image" width="700"/>
 
+ - Head over to [Building a PostgreSQL database for crime reports.ipynb](Building_a_PostgreSQL_database_for_crime_reports.ipynb) to start reading.
+
 ### Requirements
 For this project we implemented the following tools:
  - Python
