@@ -15,4 +15,3 @@ For this project we implemented the following tools:
  - PostgreSQL (psycopg2)
  - CSV
  - Pandas
-
